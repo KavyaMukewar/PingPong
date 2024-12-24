@@ -1,3 +1,3 @@
-PingPong
+## PingPong
 
 -Simple pygames game.
